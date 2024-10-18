@@ -1,1 +1,1 @@
-print('Go to Ingushetia')
+print('Go to Ingushetia!!!!!!')
